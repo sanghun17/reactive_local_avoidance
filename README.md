@@ -46,7 +46,7 @@ See [`config/local_avoidance.yaml`](config/local_avoidance.yaml). Key ones:
 
 ```bash
 cd ~/catkin_ws/src
-git clone https://github.com/sanghun17/reative_local_avoidance.git
+git clone https://github.com/sanghun17/reactive_local_avoidance.git
 cd ~/catkin_ws && catkin_make
 source devel/setup.bash
 roslaunch local_avoidance local_avoidance.launch
