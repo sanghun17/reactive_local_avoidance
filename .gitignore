@@ -1,0 +1,10 @@
+# catkin build artifacts (if package is used as a workspace root)
+build/
+devel/
+install/
+*.o
+*.so
+
+# editor
+.vscode/
+*.swp
